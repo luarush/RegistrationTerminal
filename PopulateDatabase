@@ -100,16 +100,16 @@ class populateDatabase {
             stmt.executeUpdate ( "INSERT OR IGNORE INTO courses VALUES ('564852', '5', 'CIS 221', 'M', '13', '4','') " );
 
             //Loading students into the database
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J151410' )" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J034582')" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J245639')" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J007841')" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J503473' )" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J111456' )" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J345200' )" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J165441' )" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J534788' )" );
-            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J411975' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000')" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000')" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000')" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
+            stmt.executeUpdate ( "INSERT OR IGNORE INTO students VALUES('J000000' )" );
 
 
         } catch (SQLException e) {
