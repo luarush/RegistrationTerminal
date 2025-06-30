@@ -25,8 +25,4 @@ This project was developed using:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) – for project management and code writing  
 - [Visual Studio Code](https://code.visualstudio.com/) – for quick testing and formatting
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/course-registration-system.git
